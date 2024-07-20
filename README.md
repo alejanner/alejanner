@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex 
 - 👀 I’m interested in Bioinformatics, Computer Science and Sports Data. 
-- 🌱 I’m currently PhD Student in Bioinformatics at Unisa. 
+-  I’m currently PhD Student in Bioinformatics at Unisa and Computer Science Student in Sapienza.
 
 <!---
 alejanner/alejanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
